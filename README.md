@@ -1,2 +1,3 @@
-# FullstackCodingBootcamp
-University of Minnesota Fullstack Coding Bootcamp part time 
+# Fullstack Coding Bootcamp from the University of Minnesota
+
+## Index:
