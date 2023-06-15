@@ -6,3 +6,13 @@
   - CSS style sheet for given HTML file
 - Week 2
 - Week 3
+
+
+
+
+
+
+
+
+## Licenses:
+..* MIT
