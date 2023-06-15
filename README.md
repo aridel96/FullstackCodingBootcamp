@@ -15,4 +15,4 @@
 
 
 ## Licenses:
-..* MIT
+  * MIT
